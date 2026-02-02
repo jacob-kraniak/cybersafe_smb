@@ -35,10 +35,10 @@ We also offer **free or pro-bono** basic audits to residential users in our loca
 - Goal: Build local trust and generate word-of-mouth leads
 
 ### Key Documentation
-- [Lead Intake & Delivery Process](/jacob-kraniak/cybersafe_smb/blob/main/docs/lead-intake-process.md)
-- [Report Templates](/jacob-kraniak/cybersafe_smb/tree/main/templates/report)
+- [Lead Intake & Delivery Process](/docs/lead-intake-process.md)
+- [Report Templates](/templates)
 - [Post-Pivot Roadmap](docs/roadmap.md)
-- [Legal Considerations (Framework References)](/jacob-kraniak/cybersafe_smb/blob/main/docs/legal-considerations.md)
+- [Legal Considerations (Framework References)](/docs/legal-considerations.md)
 
 ### Social & Contact
 - [Follow on X](https://x.com/HomeCybersafe)
