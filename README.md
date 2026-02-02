@@ -32,6 +32,11 @@ https://cybersafehome.org
 - [Report Templates](templates/report/)
 - [Roadmap](docs/roadmap.md)
 
+### Social Links
+- [Follow on X](https://x.com/HomeCybersafe)
+- [Follow on Instagram](https://www.instagram.com/cybersafehome/)
+- [Send us an Email](mailto:hello@cybersafehome.org)
+
 Built with: Carrd • Google Workspace • Zoho Books • Zapier (planned)
 
 ⭐ Star this repo if you like the project — feedback welcome!
