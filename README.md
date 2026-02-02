@@ -37,7 +37,7 @@ We also offer **free or pro-bono** basic audits to residential users in our loca
 ### Key Documentation
 - [Lead Intake & Delivery Process](/jacob-kraniak/cybersafe_smb/blob/main/docs/lead-intake-process.md)
 - [Report Templates](/jacob-kraniak/cybersafe_smb/tree/main/templates/report)
-- [Post-Pivot Roadmap](/jacob-kraniak/cybersafe_smb/blob/main/docs/roadmap.md)
+- [Post-Pivot Roadmap](docs/roadmap.md)
 - [Legal Considerations (Framework References)](/jacob-kraniak/cybersafe_smb/blob/main/docs/legal-considerations.md)
 
 ### Social & Contact
