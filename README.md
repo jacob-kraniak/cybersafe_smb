@@ -45,6 +45,10 @@ We also offer **free or pro-bono** basic audits to residential users in our loca
 - [Instagram](https://www.instagram.com/cybersafehome/)
 - [Email us](mailto:hello@cybersafehome.org)
 
-Built with lean tools: Carrd • Google Workspace • Zoho Books • Zapier (coming)
+Built with lean tools: 
+ - Carrd.co
+ - Google Workspace > Proton Business (coming soon)
+ - Zoho Books
+ - SuperGrok 4.1 (AI Assistant)
 
 ⭐ Star this repo if you're following along — issues and PRs welcome!
